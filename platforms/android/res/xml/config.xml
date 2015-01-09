@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.miguelsansegundo.metodomanniello" version="0.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <name xml:lang="es">Método Manniello</name>
+    <description>
+        La aplicación crea menús semanales saludables personalizados a su medida. ❤
+        En esta aplicación, el Dr. Donato Manniello Ph.D. recomienda concretos hábitos saludables de alimentación para lograr calidad de salud y longevidad. Ofrece las recomendaciones necesarias para alimentarse saludablemente, también como combinar y cocinar los alimentos. Y además, ¡tendrá la lista de la compra para su menú semanal!
+        Más de 1000 personas han cambiado sus vidas utilizando su método, eliminaron enfermedades, incrementaron sus defensas, vitalidad y vigor. Podrá vivir más sano, más fuerte y sin dolor.
+    </description>
+    <author email="miguelsansegundo@gmail.com" href="http://cordova.io">
+       Miguel San Segundo
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="www/img/icon-xhdpi.png" />
+    <icon density="ldpi" platform="android" src="www/img/icon-xhdpi.png" />
+    <icon density="mdpi" platform="android" src="www/img/icon-xhdpi.png" />
+    <icon density="hdpi" platform="android" src="www/img/icon-xhdpi.png" />
+    <icon density="xhdpi" platform="android" src="www/img/icon-xhdpi.png" />
+    <preference name="ShowTitle" value="true" />
+    <preference name="AndroidLaunchMode" value="singleTop" />
+    <preference name="Fullscreen" value="true" />
+</widget>

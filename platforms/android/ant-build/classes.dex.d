@@ -1,0 +1,24 @@
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes.dex : \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\com\miguelsansegundo\metodomanniello\BuildConfig.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\com\miguelsansegundo\metodomanniello\CordovaApp.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\com\miguelsansegundo\metodomanniello\R$attr.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\com\miguelsansegundo\metodomanniello\R$drawable.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\com\miguelsansegundo\metodomanniello\R$string.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\com\miguelsansegundo\metodomanniello\R$xml.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\com\miguelsansegundo\metodomanniello\R.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+C:\Users\StudiomiK\Documents\Metodo Manniello\cordovaApp\MetodoManniello\platforms\android\ant-build\dexedLibs\classes-8c175c129e5bfee8add640d2a0e108c0.jar \
